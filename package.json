@@ -1,0 +1,19 @@
+{
+    "dependencies": {
+        "com.unity.textmeshpro": "2.0.1"
+    },
+    "displayName": "Map SDK",
+    "version": "0.0.1",
+    "unity": "2020.1",
+    "description": "Map SDK for Unity",
+    "name": "com.riolab.map",
+    "author": "Riolab",
+    "keywords": [
+        "Mapbox",
+        "MapSDK"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/RiolabTV/UnityPackage_MapSDK.git"
+    }
+}
